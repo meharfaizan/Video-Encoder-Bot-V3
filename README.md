@@ -42,7 +42,5 @@ clear - Clear The Queue
 
 restart - restart the bot
 
-exec - Works As Bash In Ultroid
-
 stop - stop all proccesses
 
